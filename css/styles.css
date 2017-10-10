@@ -1,0 +1,25 @@
+.playerTwo {
+  display:none;
+}
+.computerTron {
+  display:none;
+}
+body{
+  font-family:'Chewy', cursive;
+
+}
+
+ .center{
+  text-align: center;
+}
+
+#playerOneDisplayRoll, #playerTwoDisplayRoll{
+  list-style: none;
+}
+
+.userInput{
+  display: none;
+}
+.game{
+  display: none;
+}
